@@ -407,5 +407,5 @@
 				Sudoku
 			</a>
 		</li>
-	</ul>
+	</ol>
 </ol>
